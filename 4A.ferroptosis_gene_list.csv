@@ -1,0 +1,1294 @@
+GeneSymbol,Role
+A2M-AS1,Driver
+AADAC,Suppressor
+ABCB6,Suppressor
+ABCC1,"Driver, Marker"
+ABCC5,Suppressor
+ABHD12,Suppressor
+AC005332.7,Suppressor
+ACACA,Marker
+ACADM,Suppressor
+ACADSB,Driver
+ACAT2,Suppressor
+ACO1,"Driver, Marker"
+ACOT1,Suppressor
+ACOT7,Suppressor
+ACSF2,"Driver, Marker, Unclassified"
+ACSL1,"Driver, Suppressor"
+ACSL3,"Driver, Marker, Suppressor"
+ACSL4,"Driver, Marker"
+ACTL6A,Suppressor
+ACVR1B,Driver
+ADAM23,Driver
+ADAMTS13,Suppressor
+ADAMTS9-AS1,Suppressor
+ADGRF5,Driver
+ADIPOQ,Suppressor
+ADIPOR1,Suppressor
+ADORA1,Suppressor
+ADORA2B,Suppressor
+AEBP1,Suppressor
+AEBP2,Driver
+AGAP2-AS1,Suppressor
+AGER,Suppressor
+AGPAT3,"Driver, Unclassified"
+AGPS,Driver
+AGTR2,Driver
+AHCY,Suppressor
+AHR,"Driver, Suppressor"
+AIFM2,Suppressor
+AIM2,Suppressor
+AKR1C,Marker
+AKR1C1,Suppressor
+AKR1C2,Suppressor
+AKR1C3,Suppressor
+AKT,Suppressor
+AKT1,"Marker, Suppressor, Unclassified"
+AKT1S1,Suppressor
+ALB,Unclassified
+ALDH2,Suppressor
+ALDH3A2,Suppressor
+ALG3,Suppressor
+ALKBH5,"Driver, Suppressor"
+ALOX12,"Driver, Unclassified"
+ALOX12B,Driver
+ALOX15,"Driver, Marker, Unclassified"
+ALOX15B,Driver
+ALOX5,"Driver, Unclassified"
+ALOXE3,Driver
+AMBRA1,Driver
+AMER1,Driver
+AMFR,Driver
+AMN,Driver
+ANGPTL4,Suppressor
+ANGPTL7,Unclassified
+ANO1,"Driver, Suppressor"
+ANO6,Driver
+ANXA10,Suppressor
+AOC1,Driver
+APELA,Suppressor
+APOC1,Suppressor
+APOE,Suppressor
+APOL3,Driver
+APP,Driver
+AQP11,Suppressor
+AQP3,Driver
+AQP4,Suppressor
+AQP5,Driver
+AQP8,Driver
+AR,Suppressor
+ARF6,Suppressor
+ARG2,Suppressor
+ARGLU1-DT,Driver
+ARHGEF26-AS1,Driver
+ARMC5,Driver
+ARNTL,Suppressor
+ARPC1A,Suppressor
+ARRDC3,Unclassified
+ASAH2,Suppressor
+ASAP2,Suppressor
+ASCL1,Suppressor
+ASL,Driver
+ASMTL-AS1,Driver
+ASNS,Unclassified
+ASS1,Suppressor
+ATF2,Suppressor
+ATF3,"Driver, Suppressor, Unclassified"
+ATF4,"Driver, Suppressor, Unclassified"
+ATF6,Suppressor
+ATG13,Driver
+ATG16L1,Driver
+ATG3,Driver
+ATG4D,Driver
+ATG5,Driver
+ATG7,Driver
+ATM,Driver
+ATP2B3,Driver
+ATP5MC3,"Driver, Unclassified"
+ATP6V1G2,Unclassified
+ATXN8OS,Driver
+AURKA,"Suppressor, Unclassified"
+AXL,Suppressor
+B3GNT3,Suppressor
+BACH1,"Driver, Suppressor"
+BACH2,Driver
+BAP1,Driver
+BAP31,Suppressor
+BAX,Driver
+BBOX1-AS1,Suppressor
+BCAT1,Suppressor
+BCAT2,Suppressor
+BCL2,Suppressor
+BCL6,Driver
+BDNF-AS,Suppressor
+BECN1,Driver
+BEX1,Suppressor
+BGN,Suppressor
+BHLHE40,Suppressor
+BID,Driver
+BLOC1S5-TXNDC5,Unclassified
+BMAL1,"Driver, Suppressor"
+BMP4,Suppressor
+BNC1,Suppressor
+BNIP3,Unclassified
+BRCA1,"Driver, Suppressor"
+BRD2,Suppressor
+BRD3,Suppressor
+BRD4,"Driver, Suppressor"
+BRD7,Driver
+BRDT,Suppressor
+BRPF1,Driver
+BSG,Driver
+BTK,Suppressor
+C19orf12,Suppressor
+C1QTNF6,Suppressor
+C8orf76,Suppressor
+CA9,Suppressor
+CACNA1G-AS1,Suppressor
+CAD,Suppressor
+CAMKK2,Suppressor
+CAPG,"Suppressor, Unclassified"
+CAPRIN2,Suppressor
+CARM1,"Driver, Suppressor"
+CARS1,"Driver, Marker"
+CASC11,Suppressor
+CASP3,Driver
+CAV-1,Suppressor
+CAV1,"Driver, Suppressor"
+CAVIN1,Driver
+CB2R,Suppressor
+CBR1,Unclassified
+CBS,"Marker, Suppressor, Unclassified"
+CBSLR,Suppressor
+CBX5,Driver
+CCDC6,Driver
+CCT3,Suppressor
+CD276,Suppressor
+CD36,Driver
+CD38,Driver
+CD44,Suppressor
+CD74,Driver
+CD82,Driver
+CDC25A,Suppressor
+CDC27,Driver
+CDCA3,Driver
+CDH1,Suppressor
+CDH4,Suppressor
+CDK1,Suppressor
+CDKN1A,"Marker, Suppressor"
+CDKN2A,"Driver, Suppressor"
+CDO1,Driver
+CEBPG,"Suppressor, Unclassified"
+CEMIP,Suppressor
+CENPA,Suppressor
+CERK,Suppressor
+CERS6-AS1,Suppressor
+CFL1,Driver
+CGAS,"Driver, Suppressor"
+CHAC1,"Driver, Marker"
+CHMP1A,Suppressor
+CHMP5,Suppressor
+CHMP6,Suppressor
+CHP1,Driver
+CIRBP,Driver
+CISD1,"Marker, Suppressor"
+CISD2,Suppressor
+CISD3,Suppressor
+CKB,Suppressor
+CLOCK,Suppressor
+CLTRN,Driver
+CNIH4,Suppressor
+CNR1,Suppressor
+COMMD10,Driver
+COPZ1,Suppressor
+COQ10A,Suppressor
+COQ10B,Suppressor
+COQ10BP1,Suppressor
+COQ10BP2,Suppressor
+COX4I2,Driver
+COX7A1,Driver
+CP,Suppressor
+CPEB1,Driver
+CPLX2,Suppressor
+CPT1A,Suppressor
+CREB,Suppressor
+CREB1,Suppressor
+CREB3,Suppressor
+CREB5,Suppressor
+CRTC3,Suppressor
+CRYAB,Driver
+CS,"Driver, Marker"
+CSE,Suppressor
+CST1,Suppressor
+CTNNB1,Suppressor
+CTNS,Suppressor
+CTSB,Driver
+CUL9,Suppressor
+CX3CL1,Driver
+CXCL10,Driver
+CXCL2,Unclassified
+CXCL8,Suppressor
+CYB5R1,Driver
+CYBB,"Driver, Suppressor"
+CYGB,"Driver, Suppressor"
+CYP1B1,Suppressor
+CYP24A1,Suppressor
+CYP2E1,Suppressor
+CYP4F8,Driver
+ChREP-beta,Driver
+CircBCAR3,Suppressor
+CircCDK14,Suppressor
+CircCmss1,Driver
+CircEXOC5,Driver
+CircFNDC3B,Suppressor
+CircHIPK3,"Driver, Suppressor"
+CircHMGA2,Driver
+CircIDE,Driver
+CircIL4R,Suppressor
+CircKDM4C,Driver
+CircLRFN5,Driver
+CircOMA1,Suppressor
+CircP4HB,Suppressor
+CircPVT1,Suppressor
+CircRAPGEF5,Suppressor
+CircRHOT1,Suppressor
+CircRNA-ST6GALNAC6,Driver
+CircSCN8A,Driver
+CircSnx12,Suppressor
+CircZBTB46,Suppressor
+Circ_0000190,Driver
+Circ_0000745,Suppressor
+DACT3-AS1,Driver
+DAZAP1,Suppressor
+DCAF7,Driver
+DCLK3,Suppressor
+DCPS,Suppressor
+DDIT3,Unclassified
+DDIT4,"Driver, Unclassified"
+DDR2,Driver
+DDX5,Driver
+DECR1,Suppressor
+DELE1,Suppressor
+DHODH,"Driver, Suppressor"
+DKK1,Suppressor
+DLD,Driver
+DLEU1,Suppressor
+DNAJB6,Driver
+DPEP1,Driver
+DPP4,"Driver, Marker, Suppressor"
+DPP9,Suppressor
+DRD4,Unclassified
+DRD5,Unclassified
+DUOX1,Driver
+DUOX2,Driver
+DUSP1,Unclassified
+DUXAP8,Suppressor
+DYRK1A,Driver
+E2F1,Driver
+E2F2,Driver
+E2F3,Driver
+E2F7,Suppressor
+EBF3,Driver
+ECH1,Suppressor
+EDN1,Driver
+EGF,Suppressor
+EGFR,"Driver, Suppressor"
+EGLN2,Driver
+EGR1,Driver
+EHMT2,Driver
+EIF2AK2,Driver
+EIF2AK3,Suppressor
+EIF2AK4,Unclassified
+EIF2S1,Unclassified
+EIF3H,Suppressor
+EIF4E,Driver
+ELAVL1,"Driver, Unclassified"
+ELK1,Suppressor
+ELOVL5,"Driver, Suppressor"
+EMC2,"Driver, Marker"
+EMP1,Driver
+EMP2,Suppressor
+ENO1,Suppressor
+ENO3,Suppressor
+ENPP2,Suppressor
+EP300,"Driver, Suppressor"
+EPAS1,Driver
+EPHA2,Driver
+EPHA4,Driver
+EPT1,Driver
+EREG,Suppressor
+ERK,Driver
+ERN1,Driver
+ESR1,Suppressor
+ETHE1,Driver
+ETS1,Suppressor
+ETV4,Suppressor
+EZH2,Suppressor
+FABP4,"Driver, Suppressor"
+FADS1,Driver
+FADS2,"Driver, Marker, Suppressor"
+FAF1,Suppressor
+FAM98A,Suppressor
+FANCD2,"Marker, Suppressor"
+FAR1,Driver
+FBLN1,Suppressor
+FBXL5,Suppressor
+FBXO31,Driver
+FBXW7,Driver
+FDFT1,Marker
+FDX1,"Driver, Suppressor"
+FEACR,Suppressor
+FECH,Suppressor
+FEN1,Suppressor
+FGF10,Suppressor
+FGF2,Suppressor
+FGF21,Suppressor
+FGF4,Suppressor
+FGFR4,Suppressor
+FH,Suppressor
+FHOD1,Suppressor
+FLRT2,Driver
+FLT3,Driver
+FMO1,Driver
+FNDC3B,Suppressor
+FNDC5,Suppressor
+FOSL1,Driver
+FOXA2,Suppressor
+FOXM1,Suppressor
+FOXN4,Driver
+FOXO3,Driver
+FOXO4,Driver
+FOXQ1,Suppressor
+FSCN1,Driver
+FTH1,"Driver, Marker, Suppressor, Unclassified"
+FTHL17,Suppressor
+FTL,"Marker, Suppressor, Unclassified"
+FTMT,Suppressor
+FTO,"Driver, Suppressor"
+FTX,Suppressor
+FUNDC1,"Driver, Suppressor"
+FUNDC2,Driver
+FURIN,Suppressor
+FXN,Suppressor
+FXR1,Suppressor
+FZD7,Suppressor
+Fer1HCH,Suppressor
+G3BP1,"Driver, Suppressor"
+G6PD,"Driver, Marker, Suppressor"
+G6PDX,Driver
+GABARAPL1,Driver
+GABARAPL2,Driver
+GABPB1,Unclassified
+GALNT14,Suppressor
+GALNT5,Suppressor
+GAS1,Driver
+GATA1,Suppressor
+GATA3,Suppressor
+GATA6,Suppressor
+GCH1,Suppressor
+GCLC,"Marker, Suppressor"
+GDF15,"Driver, Suppressor, Unclassified"
+GFPT1,Driver
+GGT1,Suppressor
+GINS4,Suppressor
+GJA1,Driver
+GLRX5,Suppressor
+GLS,Suppressor
+GLS2,"Driver, Marker"
+GLUT13,Unclassified
+GMFB,Driver
+GOT1,"Driver, Marker, Suppressor"
+GPAT4,Driver
+GPT2,Unclassified
+GPX2,Unclassified
+GPX3,Suppressor
+GPX4,"Marker, Suppressor, Unclassified"
+GPX7,Suppressor
+GRIA3,Driver
+GRN,Suppressor
+GRSF1,Suppressor
+GSK3B,Driver
+GSS,Suppressor
+GSTM1,Suppressor
+GSTP1,Suppressor
+GSTZ1,Driver
+Gm47283,Driver
+H19,"Driver, Suppressor"
+H3C1,Driver
+H3C10,Driver
+H3C11,Driver
+H3C12,Driver
+H3C13,Driver
+H3C14,Driver
+H3C15,Driver
+H3C2,Driver
+H3C3,Driver
+H3C4,Driver
+H3C6,Driver
+H3C7,Driver
+H3C8,Driver
+HACE1,Suppressor
+HAMP,Unclassified
+HBA1,Unclassified
+HBP1,Driver
+HCAR1,Suppressor
+HCG18,Suppressor
+HCP5,Suppressor
+HDAC3,"Driver, Suppressor"
+HDAC6,"Driver, Suppressor"
+HDDC3,Driver
+HDLBP,Driver
+HECTD3,Driver
+HECW1,Driver
+HELLS,Suppressor
+HEPFAL,Driver
+HERPUD1,"Driver, Unclassified"
+HIC1,Unclassified
+HIF1A,"Driver, Suppressor"
+HILPDA,Driver
+HJURP,Suppressor
+HLF,Suppressor
+HMGA2,Suppressor
+HMGB1,"Driver, Unclassified"
+HMGB2,Driver
+HMGCL,Driver
+HMGCR,"Marker, Suppressor"
+HMGCS1,Suppressor
+HMOX1,"Driver, Marker, Suppressor, Unclassified"
+HNF4A,"Driver, Suppressor, Unclassified"
+HNRNPD,Suppressor
+HNRNPL,Suppressor
+HNRNPM,Suppressor
+HOTAIR,Driver
+HOXA11-AS,Suppressor
+HOXC-AS3,Suppressor
+HOXD10,Driver
+HPCAL1,Driver
+HPX,Suppressor
+HRAS,Driver
+HRH1,Suppressor
+HSBP1,Marker
+HSD17B11,Unclassified
+HSDL2,Driver
+HSF1,Suppressor
+HSP90AA1,Driver
+HSPA12A,Suppressor
+HSPA12B,Suppressor
+HSPA13,Suppressor
+HSPA14,Suppressor
+HSPA1A,Suppressor
+HSPA1B,Suppressor
+HSPA1L,Suppressor
+HSPA2,Suppressor
+HSPA4,Suppressor
+HSPA4L,Suppressor
+HSPA5,"Marker, Suppressor"
+HSPA6,Suppressor
+HSPA7,Suppressor
+HSPA8,Suppressor
+HSPA9,Suppressor
+HSPB1,"Marker, Suppressor"
+HSPH1,Suppressor
+HTR2B,Suppressor
+HULC,Suppressor
+HUWE1,Suppressor
+HYOU1,Suppressor
+ICA1,Driver
+IDH1,Driver
+IDH2,Suppressor
+IDO1,"Driver, Suppressor"
+IFI35,Driver
+IFNA1,Driver
+IFNA10,Driver
+IFNA13,Driver
+IFNA14,Driver
+IFNA16,Driver
+IFNA17,Driver
+IFNA2,Driver
+IFNA21,Driver
+IFNA4,Driver
+IFNA5,Driver
+IFNA6,Driver
+IFNA7,Driver
+IFNA8,Driver
+IFNG,Driver
+IGF1R,Suppressor
+IGF2BP2,Suppressor
+IGF2BP3,Suppressor
+IGFBP6,Suppressor
+IGFBP7,Driver
+IL-10,Suppressor
+IL17A,"Driver, Suppressor, Unclassified"
+IL1B,Driver
+IL23A,Suppressor
+IL33,"Suppressor, Unclassified"
+IL37,Suppressor
+IL6,"Driver, Suppressor, Unclassified"
+IL9,Suppressor
+INTS2,Driver
+IREB2,"Driver, Marker, Unclassified"
+IRF1,Driver
+IRF3,Suppressor
+IRF7,Driver
+IRF8,Driver
+IRF9,Driver
+ISCA2,Suppressor
+ISCU,Suppressor
+ITGB2-AS1,Suppressor
+ITGB3,Suppressor
+ITPR1,Driver
+ITPR2,Driver
+ITPR3,Driver
+JDP2,Unclassified
+JUN,Suppressor
+JUND,Suppressor
+JUP,Suppressor
+KAT5,Suppressor
+KAT6B,Suppressor
+KCNMA1,Suppressor
+KCNQ1OT1,Driver
+KDM1A,"Driver, Suppressor"
+KDM3B,Suppressor
+KDM4A,Suppressor
+KDM4D,Suppressor
+KDM5A,Driver
+KDM5C,Driver
+KDM6B,Driver
+KEAP1,"Driver, Marker, Unclassified"
+KIF20A,Suppressor
+KIM-1,Unclassified
+KL,Suppressor
+KLF11,Driver
+KLF15,Suppressor
+KLF2,Driver
+KLF6,Driver
+KLHDC3,Suppressor
+KLHL24,Unclassified
+KMT2B,Driver
+KMT2D,Driver
+KMT5A,Suppressor
+KRAS,Driver
+KRT18,Suppressor
+LACTB,Driver
+LAMP2,Suppressor
+LAMTOR5,Suppressor
+LCE2C,Driver
+LCN2,"Driver, Suppressor"
+LDHA,Suppressor
+LDLR,Suppressor
+LGMN,Driver
+LIFR,Driver
+LIG3,Driver
+LIN28A,Driver
+LINC-ROR,Driver
+LINC00239,Suppressor
+LINC00336,Suppressor
+LINC00460,Suppressor
+LINC00472,Driver
+LINC00578,Suppressor
+LINC00616,Driver
+LINC00618,Driver
+LINC00641,Suppressor
+LINC00941,Suppressor
+LINC00976,Suppressor
+LINC01133,Suppressor
+LINC01134,Suppressor
+LINC01564,Suppressor
+LINC01606,Suppressor
+LINC01833,Suppressor
+LINC02587,Suppressor
+LIP,Driver
+LOC284561,Unclassified
+LOC390705,Unclassified
+LONP1,Driver
+LOX,"Driver, Marker"
+LPCAT3,"Driver, Marker"
+LPIN1,Driver
+LRP8,Suppressor
+LRRFIP1,Unclassified
+LRRK2,Suppressor
+LTBP2,Suppressor
+LTF,Suppressor
+LUCAT1,Suppressor
+LURAP1L,Unclassified
+LYRM1,Driver
+MAFG,Unclassified
+MALAT1,Suppressor
+MALT1,"Driver, Suppressor"
+MAP1LC3A,Driver
+MAP3K11,Driver
+MAP3K14,Driver
+MAP3K5,Unclassified
+MAP3K7,Suppressor
+MAPK1,Driver
+MAPK14,"Driver, Unclassified"
+MAPK3,Driver
+MAPK8,"Driver, Suppressor"
+MAPK9,Driver
+MAPKAP1,"Suppressor, Unclassified"
+MARCHF5,Suppressor
+MARCHF6,Suppressor
+MAT1A,Driver
+MAT2A,Suppressor
+MAZ,Suppressor
+MBOAT1,Suppressor
+MBOAT2,Suppressor
+MBOAT7,Driver
+MCF2L,Suppressor
+MCOLN1,Driver
+MCU,Driver
+MDM2,"Driver, Suppressor"
+MDM4,Driver
+ME1,Suppressor
+MEF2C,Suppressor
+MEG3,Driver
+MEG8,Suppressor
+MELK,Suppressor
+MEN1,Driver
+METRNL,Suppressor
+METTL1,Driver
+METTL14,"Driver, Suppressor"
+METTL16,Suppressor
+METTL3,"Driver, Suppressor"
+METTL9,Suppressor
+MEX3A,Suppressor
+MFGE8,Suppressor
+MFN1,Suppressor
+MFN2,Driver
+MGST1,Suppressor
+MIB1,Driver
+MIB2,Driver
+MICU1,Driver
+MIOX,Driver
+MIR1-1,Suppressor
+MIR1-2,Suppressor
+MIR124-1,Driver
+MIR124-2,Driver
+MIR124-3,"Driver, Suppressor"
+MIR125B1,Suppressor
+MIR125B2,Suppressor
+MIR127,Driver
+MIR129-1,Driver
+MIR129-2,Driver
+MIR130B,Suppressor
+MIR135B,Driver
+MIR137,Suppressor
+MIR140,Driver
+MIR142,Driver
+MIR144,Driver
+MIR147A,Driver
+MIR148A,Driver
+MIR149,Driver
+MIR15A,Driver
+MIR16-1,Suppressor
+MIR16-2,Suppressor
+MIR17,Suppressor
+MIR17HG,Suppressor
+MIR181B1,Driver
+MIR181B2,Driver
+MIR18A,Suppressor
+MIR190A,Suppressor
+MIR193A,Suppressor
+MIR19A,Suppressor
+MIR20A,Suppressor
+MIR21,"Driver, Suppressor"
+MIR210,Suppressor
+MIR2115,Suppressor
+MIR212,Suppressor
+MIR214,"Driver, Suppressor"
+MIR217,Suppressor
+MIR221,Suppressor
+MIR222,Suppressor
+MIR23A,"Driver, Suppressor"
+MIR26A1,Driver
+MIR26A2,Driver
+MIR27A,"Driver, Suppressor"
+MIR29A,Suppressor
+MIR302A,Driver
+MIR30B,Unclassified
+MIR30E,Suppressor
+MIR324,Driver
+MIR335,Driver
+MIR338,Driver
+MIR34C,Driver
+MIR375,Driver
+MIR378A,Driver
+MIR424,Suppressor
+MIR429,Driver
+MIR432,Suppressor
+MIR4443,Suppressor
+MIR450B,Suppressor
+MIR4715,Unclassified
+MIR4735,Driver
+MIR491,Suppressor
+MIR494,Driver
+MIR509-1,Driver
+MIR5096,Driver
+MIR522,Suppressor
+MIR539,Driver
+MIR545,Suppressor
+MIR552,Suppressor
+MIR605,Driver
+MIR6077,Suppressor
+MIR612,Driver
+MIR670,Suppressor
+MIR6852,Driver
+MIR761,Driver
+MIR770,Driver
+MIR9-1,Suppressor
+MIR9-2,Suppressor
+MIR9-3,Suppressor
+MIR9-3HG,Suppressor
+MIR93,Driver
+MIR96,Suppressor
+MIRN672,Driver
+MITD1,Suppressor
+MITF,Suppressor
+MLLT1,Driver
+MLST8,"Suppressor, Unclassified"
+MMD,Driver
+MMP13,Unclassified
+MPC1,Suppressor
+MPO,Driver
+MRTFA,Suppressor
+MS4A15,Suppressor
+MT-RNR1,Suppressor
+MT1DP,Driver
+MT1G,"Marker, Suppressor"
+MT3,Unclassified
+MTCH1,"Driver, Suppressor"
+MTDH,Driver
+MTF1,Suppressor
+MTHFR,Suppressor
+MTOR,"Driver, Suppressor, Unclassified"
+MTTP,Suppressor
+MUC1,Suppressor
+MXRA8,Suppressor
+MYB,Driver
+MYC,Suppressor
+MYCN,"Driver, Unclassified"
+MiR-19b-3p,Suppressor
+MiR-706,Suppressor
+NAT10,Suppressor
+NCF2,Unclassified
+NCOA3,Suppressor
+NCOA4,"Driver, Marker"
+NDRG1,"Driver, Suppressor"
+NDUFA4,Suppressor
+NEAT1,"Driver, Suppressor"
+NEDD4,Suppressor
+NEDD4L,"Driver, Suppressor"
+NEUROD1,Suppressor
+NF2,Suppressor
+NFE2L1,Suppressor
+NFE2L2,"Driver, Marker, Suppressor, Unclassified"
+NFKB2,Suppressor
+NFS1,"Marker, Suppressor"
+NGB,Unclassified
+NHLRC1,Driver
+NKAP,Suppressor
+NLRP3,Driver
+NMDAR,Driver
+NNMT,Unclassified
+NOD1,Suppressor
+NODAL,Suppressor
+NOS2,"Suppressor, Unclassified"
+NOTCH3,Suppressor
+NOX1,"Driver, Marker"
+NOX3,Driver
+NOX4,"Driver, Marker"
+NOX5,Driver
+NPC1,Suppressor
+NQO1,"Marker, Suppressor"
+NR0B1,Suppressor
+NR1D1,Driver
+NR1D2,Driver
+NR1H4,Suppressor
+NR2F2,Driver
+NR4A1,Suppressor
+NR5A2,Suppressor
+NRAS,Driver
+NSUN2,Suppressor
+NSUN5,Suppressor
+NT5DC2,Suppressor
+NTN1,Suppressor
+NTRK2,"Driver, Suppressor"
+NUAK2,Driver
+NUP62,"Driver, Suppressor"
+NUPR1,Suppressor
+OGFRP1,Suppressor
+OGT,Suppressor
+OIP5-AS1,Suppressor
+OMA1,Suppressor
+OPRM1,Suppressor
+ORMDL3,Driver
+OSBPL9,Driver
+OTUB1,Suppressor
+OTUD5,Suppressor
+OTUD6B-AS1,Driver
+OXSR1,Unclassified
+OsFER2,Driver
+P2RX7,Driver
+P4HA1,Suppressor
+P4HB,"Driver, Suppressor"
+P66Shc,Driver
+PADI4,Driver
+PANX1,Driver
+PANX2,Suppressor
+PAQR3,Driver
+PARK7,Suppressor
+PARL,Suppressor
+PARP1,Suppressor
+PARP10,Suppressor
+PARP11,Suppressor
+PARP12,Suppressor
+PARP14,Suppressor
+PARP15,Suppressor
+PARP16,Suppressor
+PARP2,Suppressor
+PARP3,Suppressor
+PARP4,Suppressor
+PARP6,Suppressor
+PARP8,Suppressor
+PARP9,Suppressor
+PCAT1,Suppressor
+PCBP1,Suppressor
+PCBP2,Suppressor
+PCDH7,Suppressor
+PCDHB14,Driver
+PCK2,Unclassified
+PCSK9,Suppressor
+PDE4A,Driver
+PDE4B,Driver
+PDE4C,Driver
+PDE4D,Driver
+PDGFRA,Suppressor
+PDIA2,Driver
+PDIA4,Suppressor
+PDK4,Suppressor
+PDSS2,Suppressor
+PEBP1,"Driver, Marker"
+PEDS1,Suppressor
+PELATON,Suppressor
+PER1,"Driver, Suppressor"
+PER2,"Driver, Suppressor"
+PEX10,Driver
+PEX12,Driver
+PEX14,Suppressor
+PEX2,Driver
+PEX3,Driver
+PEX6,Driver
+PFKFB2,Suppressor
+PGAM1,Suppressor
+PGAM5,Suppressor
+PGD,"Driver, Marker"
+PGM5P3-AS1,Driver
+PGRMC1,"Driver, Suppressor"
+PHF21A,Driver
+PHGDH,Suppressor
+PHKG2,"Driver, Marker"
+PI3K,Suppressor
+PIAS3,Driver
+PIEZO1,Driver
+PIK3CA,"Driver, Suppressor"
+PIM1,Suppressor
+PIM3,Driver
+PINK1,Suppressor
+PIR,Suppressor
+PKM,Suppressor
+PKM2,Suppressor
+PLA2G6,Suppressor
+PLA2G7,Suppressor
+PLIN2,Suppressor
+PLIN4,Unclassified
+PLK1,Suppressor
+PLTP,Suppressor
+PML,Suppressor
+PNO1,Suppressor
+POLE2,Suppressor
+POM121L12,Driver
+POMC,Driver
+POR,Driver
+POU2F2,Suppressor
+PPARA,Suppressor
+PPARD,Suppressor
+PPARG,"Driver, Suppressor"
+PPARGC1A,Suppressor
+PPM1K,Driver
+PPP1R13L,Suppressor
+PPP2R2B,Driver
+PRDX1,"Suppressor, Unclassified"
+PRDX2,Suppressor
+PRDX3,"Driver, Marker"
+PRDX4,Suppressor
+PRDX6,Suppressor
+PRKAA1,Driver
+PRKAA2,"Driver, Suppressor"
+PRKCA,Driver
+PRKCB,Driver
+PRKCG,Suppressor
+PRKD1,Driver
+PRKD2,Suppressor
+PRMT1,Suppressor
+PRMT5,Suppressor
+PRMT8,Suppressor
+PRMT9,Suppressor
+PRNP,Unclassified
+PROK2,Suppressor
+PROM2,Suppressor
+PROX1,Suppressor
+PRR5,"Suppressor, Unclassified"
+PSAT1,Unclassified
+PSEN1,Suppressor
+PSEN2,Suppressor
+PSTK,Suppressor
+PTBP1,Driver
+PTEN,Driver
+PTGER1,Suppressor
+PTGES2,Driver
+PTGS2,"Driver, Marker"
+PTPMT1,Suppressor
+PTPN11,Driver
+PTPN18,Suppressor
+PTPN6,Driver
+PTPRC,Suppressor
+PUM2,Unclassified
+PVT1,Driver
+PYCR1,Suppressor
+QSOX1,Driver
+RAB26,Suppressor
+RAP1GDS1,Suppressor
+RAPGEF3,Driver
+RARRES2,Suppressor
+RB1,Suppressor
+RB1CC1,Driver
+RBM15,Suppressor
+RBM24,Suppressor
+RBM3,Driver
+RBMS1,"Driver, Suppressor"
+RELA,"Suppressor, Unclassified"
+REST,"Driver, Suppressor"
+RGS4,Unclassified
+RHEBP1,Suppressor
+RICTOR,"Suppressor, Unclassified"
+RIPK1,Unclassified
+RIPK3,Suppressor
+RND1,Driver
+RNF113A,Suppressor
+RNF25,Suppressor
+RPL8,"Driver, Marker, Unclassified"
+RPLP2,Suppressor
+RPTOR,Suppressor
+RRAD,Driver
+RRM1,"Driver, Suppressor"
+RRM2,"Driver, Suppressor, Unclassified"
+RSL1D1,Suppressor
+RUNX3,Driver
+RXRG,Suppressor
+S100A8,Driver
+SAT1,"Driver, Marker"
+SATB1,Suppressor
+SCARA5,Driver
+SCD,Suppressor
+SCD1,Suppressor
+SCD5,Suppressor
+SCP2,Driver
+SDCBP2-AS1,Suppressor
+SDHA,Suppressor
+SDHB,Suppressor
+SDHC,Suppressor
+SDHD,Suppressor
+SEC24B,Driver
+SELENOK,Suppressor
+SELENOP,Suppressor
+SELENOS,Unclassified
+SENP1,Suppressor
+SERPINF1,Suppressor
+SESN1,Suppressor
+SESN2,"Suppressor, Unclassified"
+SETD1A,Suppressor
+SETD1B,Unclassified
+SETD2,Suppressor
+SETD7,Driver
+SGK2,Suppressor
+SHARPIN,"Driver, Suppressor"
+SHP-1,Driver
+SIAH2,Suppressor
+SIRT1,"Driver, Suppressor"
+SIRT2,Suppressor
+SIRT3,"Driver, Suppressor"
+SIRT4,Suppressor
+SIRT6,"Driver, Suppressor"
+SIRT7,Suppressor
+SLAMF8,Driver
+SLC11A2,"Driver, Suppressor"
+SLC12A5,Suppressor
+SLC16A1,Suppressor
+SLC16A1-AS1,Suppressor
+SLC1A4,Unclassified
+SLC1A5,"Driver, Marker, Suppressor"
+SLC25A11,Suppressor
+SLC25A22,Suppressor
+SLC25A28,Driver
+SLC25A37,Driver
+SLC27A4,Suppressor
+SLC27A5,Driver
+SLC2A1,Unclassified
+SLC2A12,"Suppressor, Unclassified"
+SLC2A14,Unclassified
+SLC2A3,Unclassified
+SLC2A6,Unclassified
+SLC2A8,Unclassified
+SLC35F2,Suppressor
+SLC38A1,Driver
+SLC38A2,Suppressor
+SLC38A5,Suppressor
+SLC39A14,"Driver, Suppressor"
+SLC39A7,Driver
+SLC39A8,Driver
+SLC3A2,"Suppressor, Unclassified"
+SLC40A1,"Marker, Suppressor"
+SLC43A2,Suppressor
+SLC47A1,Suppressor
+SLC6A14,Driver
+SLC7A11,"Driver, Marker, Suppressor, Unclassified"
+SLC7A11-AS1,Driver
+SLC7A5,Unclassified
+SMAD3,Suppressor
+SMAD4,Driver
+SMAD7,Driver
+SMARCB1,Driver
+SMG9,Driver
+SMPD1,"Driver, Suppressor"
+SMURF2,Driver
+SNAI2,Suppressor
+SNAI3-AS1,Driver
+SNAP25,Suppressor
+SNCA,Driver
+SND1,"Driver, Suppressor"
+SNHG1,"Driver, Suppressor"
+SNHG14,Suppressor
+SNHG7,Driver
+SNORA16A,Unclassified
+SNORA56,Suppressor
+SNX3,Driver
+SNX4,Driver
+SNX5,Driver
+SOCS1,Driver
+SOCS2,Driver
+SOD1,Driver
+SOD2,Suppressor
+SOX10,Driver
+SOX15,Driver
+SOX2,Suppressor
+SOX8,Driver
+SP1,"Driver, Unclassified"
+SPATA2,Driver
+SPDYA,Suppressor
+SPHK1,Driver
+SPI1,Suppressor
+SPINK4,Suppressor
+SQLE,"Marker, Suppressor"
+SQOR,Suppressor
+SQSTM1,"Driver, Suppressor"
+SRC,Suppressor
+SREBF1,Suppressor
+SREBF2,Suppressor
+SRSF1,Suppressor
+SRSF9,Suppressor
+SRXN1,Unclassified
+SSBP1,Driver
+STARD7,Suppressor
+STAT3,"Driver, Suppressor"
+STAT6,Suppressor
+STC1,Suppressor
+STC2,Suppressor
+STEAP1,Driver
+STEAP3,"Marker, Suppressor, Unclassified"
+STING,Driver
+STING1,Driver
+STK11,Suppressor
+STMN1,Unclassified
+SUFU,Suppressor
+SUV39H1,Suppressor
+SYNPR-AS1,Driver
+SYVN1,Suppressor
+Sestrin2,Suppressor
+TAFAZZIN,Driver
+TBK1,Driver
+TBX1,Suppressor
+TBX2,Driver
+TCF4,Suppressor
+TCL6,Driver
+TEAD1,Suppressor
+TERF2,Suppressor
+TERT,Suppressor
+TET2,Suppressor
+TF,"Driver, Marker, Suppressor, Unclassified"
+TFAM,Suppressor
+TFAP2A,Suppressor
+TFAP2C,"Suppressor, Unclassified"
+TFEB,Suppressor
+TFR1,Driver
+TFR2,Driver
+TFRC,"Driver, Marker, Suppressor, Unclassified"
+TGFB1,Driver
+TGFB2,Driver
+TGFBR1,Driver
+TIGAR,Suppressor
+TILRLS,Driver
+TIMM9,Driver
+TIMP1,"Driver, Suppressor"
+TLR4,Driver
+TMBIM4,Suppressor
+TMEM147,Suppressor
+TMEM161B-DT,Suppressor
+TMEM164,Driver
+TMEM43,Suppressor
+TMEM44-AS1,Suppressor
+TMSB4X,Suppressor
+TMSB4Y,Suppressor
+TNF,"Driver, Suppressor"
+TNFAIP1,Driver
+TNFAIP3,Driver
+TNFAIP8L2,Driver
+TOR2A,Driver
+TP53,"Driver, Suppressor"
+TP63,Suppressor
+TRIB2,Suppressor
+TRIB3,Unclassified
+TRIM11,Suppressor
+TRIM16,Driver
+TRIM21,"Driver, Suppressor"
+TRIM26,"Driver, Suppressor"
+TRIM3,Driver
+TRIM44,Driver
+TRIM46,Driver
+TRIM59,Driver
+TRIM6,Suppressor
+TRIM7,Suppressor
+TRPM2,Suppressor
+TRPM7,Driver
+TRPV1,Suppressor
+TSC1,Driver
+TSC22D3,Unclassified
+TSPO,Suppressor
+TTPA,Driver
+TUBE1,Unclassified
+TUG1,"Driver, Suppressor"
+TULP1,Suppressor
+TXN,Suppressor
+TXNDC12,Suppressor
+TXNIP,"Driver, Unclassified"
+TXNRD1,"Suppressor, Unclassified"
+TXNRD3,Suppressor
+TYRO3,Suppressor
+UBC,Unclassified
+UBIAD1,Suppressor
+UCHL3,Suppressor
+UCKL1,Suppressor
+UFL1,Suppressor
+UHRF1,"Driver, Suppressor"
+ULK1,Driver
+ULK2,Driver
+UMPS,Suppressor
+USF2,Suppressor
+USP11,"Driver, Suppressor"
+USP14,"Driver, Suppressor"
+USP20,Suppressor
+USP22,Suppressor
+USP24,Driver
+USP35,Suppressor
+USP5,Suppressor
+USP7,"Driver, Suppressor"
+USP8,Suppressor
+UTP11,Suppressor
+Uc.339,Suppressor
+VAMP2,Suppressor
+VCP,Suppressor
+VDAC1,Driver
+VDAC2,"Driver, Suppressor"
+VDR,Suppressor
+VEGFA,Unclassified
+VIRMA,Suppressor
+VKORC1L1,Suppressor
+VLDLR,Unclassified
+WBP2,Suppressor
+WIPI1,Driver
+WIPI2,Driver
+WNT5A,Driver
+WTAP,"Driver, Suppressor"
+WWTR1,Driver
+XBP1,Unclassified
+XIST,Suppressor
+YAP1,"Driver, Suppressor"
+YTHDC1,"Driver, Suppressor"
+YTHDC2,Driver
+YTHDF1,Suppressor
+YTHDF2,Driver
+YWHAE,Unclassified
+YY1,Driver
+YY1AP1,"Driver, Suppressor"
+YY2,Driver
+ZBTB48,Suppressor
+ZC3H13,Suppressor
+ZEB1,"Driver, Marker"
+ZEB1-AS1,Suppressor
+ZFAS1,Driver
+ZFP36,Suppressor
+ZFP69B,Unclassified
+ZNF419,Unclassified
+ZNF488,Suppressor
+ZNF8,Driver
+ZRANB1,Driver
+ZSCAN25,Suppressor
+circ-BGN,Suppressor
+circ-Carm1,Driver
+circ-ITCH,Suppressor
+circ-STC2,Driver
+circ-TTBK2,Suppressor
+circ0097009,Suppressor
+circACAP2,Suppressor
+circAFF1,Driver
+circBBS2,Suppressor
+circBLNK,Suppressor
+circCMTM3,Suppressor
+circDTL,Suppressor
+circEPSTI1,Suppressor
+circGFRA1,Suppressor
+circKIF4A,Suppressor
+circLMO1,Driver
+circPDE3B,Suppressor
+circPSEN1,Driver
+circRHBG,Suppressor
+circRHOT1,Suppressor
+circRNA1615,Suppressor
+circRNA_101093,Suppressor
+circRNF10,Suppressor
+circRPPH1,Driver
+circSAV1,Driver
+circSEPT9,Suppressor
+circSLC8A1,Driver
+circSTIL,Suppressor
+circSlC8A1,Driver
+circUBE2I,Driver
+circ_0000140,Driver
+circ_0007142,Suppressor
+circ_0067934,Suppressor
+circ_0070440,Suppressor
+circ_0072464,Suppressor
+hsa_circ_0008367,Driver
+hsa_circ_0050900,Suppressor
+hsa_circ_0057105,Driver
+lnc-MRGPRF-6:1,Driver
+lncAABR07025387.1,Driver
+lncRNA AABR07017145.1,Driver
+miR-129-5p,Suppressor
+miR-182-5p,Driver
+miR-194-5p,Driver
+miR-19b-3p,Driver
+miR-26a-5p,Suppressor
+miR-378a-3p,Driver
+miR-7-5p,Suppressor
+miR6315,Driver
+mmu_circRNA_0000309,Suppressor
