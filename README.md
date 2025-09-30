@@ -16,6 +16,12 @@ We present a computational framework integrating:
 All analyses are performed on TCGA-BRCA RNA-seq data (public, 1,111 tumors + 113 normals).
 No wet-lab experiments were performed.
 
+Due to GitHub size limits, large data files are hosted on Google Drive:
+- Raw counts (204 MB): [[Google Drive link](https://drive.google.com/file/d/1Ppib5rBOETByWrt6xzojM57fsHZ_naVt/view?usp=drive_link)]
+- Normalized matrix (849 MB): [[Google Drive link](https://drive.google.com/file/d/10ixvEtoICB5OkE0IUvmnxmSLTXGaQ4yV/view?usp=drive_link)]
+
+These files are derived from TCGA-BRCA (public). Users may also regenerate them with the provided R scripts.
+
 **Repository Structure**
 ├── data/                  # TCGA-BRCA raw counts, metadata, VST-normalized matrix
 ├── scripts/               # R and Python scripts, organized by step
