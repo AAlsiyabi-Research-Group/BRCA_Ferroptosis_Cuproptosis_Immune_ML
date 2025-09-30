@@ -23,7 +23,6 @@ No wet-lab experiments were performed.
 │   └── Python/            # ML notebooks, SHAP, PCA, plots
 ├── results/               # Analysis outputs, metrics, tables
 ├── figures/               # Uncropped original plots (PNG/TIFF)
-├── ethics/                # TCGA Data Use Statement
 └── README.md              # This file
 
 **Installation & Requirements**
